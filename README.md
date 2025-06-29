@@ -1,1 +1,1 @@
-# Dashboard-Vendas
+🎮 Dashboard de Vendas - Consoles Xbox Este projeto apresenta um dashboard interativo com visualizações de dados de vendas de consoles Xbox. Ideal para análises de desempenho, tendências de mercado e insights estratégicos. Explore, contribua e acompanhe a evolução!
